@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# Welcome to my page
+**The Name is Khalyl Dammas**.
+Junior at University of Jeddah, Computer science and Artificial Intelligence department.
+
+#### Contact info:
+- Email: Khalyl.Ibraheem@outlook.com
+- WhatsApp: +966 53 871 7576
+
 <!--
 **KhalylDammas/KhalylDammas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
