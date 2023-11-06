@@ -2,7 +2,7 @@
 
 # Welcome to my page
 **The Name is Khalyl Dammas**.
-Junior at University of Jeddah, Computer science and Artificial Intelligence department.
+Senior at University of Jeddah, Computer science and Artificial Intelligence department.
 
 #### Contact info:
 - Email: Khalyl.Ibraheem@outlook.com
