@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 # Welcome to my page
-**The Name is Khalyl Dammas**.
-Senior at University of Jeddah, Computer science and Artificial Intelligence department.
+**I'm Khalyl AL-Ghamdi**.
+A graduate from University of Jeddah, with Bachelor's in Computer science and Artificial Intelligence.
 
 #### Contact info:
 - Email: Khalyl.Ibraheem@outlook.com
