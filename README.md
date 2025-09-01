@@ -2,13 +2,14 @@
 
 # Welcome to my page
 **I'm Khalyl AL-Ghamdi**.
-A graduate from University of Jeddah, with Bachelor's in Computer science and Artificial Intelligence.
+An AI Engineer, graduated from University of Jeddah, with Bachelor's in Computer science and Artificial Intelligence at 2023.
 
 #### Contact info:
 - Email: Khalyl.Ibraheem@outlook.com
-- WhatsApp: +966 53 871 7576
 
-You can find my projects in this repository https://github.com/KhalylDammas/Projects
+<a href="https://git.io/streak-stats">
+    <img src=https://streak-stats.demolab.com/?user=KhalylDammas&&theme=tokyonight&&hide_border=true&card_width=495>
+  </a>
 
 <!--
 **KhalylDammas/KhalylDammas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
