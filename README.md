@@ -7,10 +7,12 @@ An AI Engineer, graduated from University of Jeddah, with Bachelor's in Computer
 #### Contact info:
 - Email: Khalyl.Ibraheem@outlook.com
 
-<a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=KhalylDammas&&theme=tokyonight&&hide_border=true&card_width=495>
-  </a>
 
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src=https://streak-stats.demolab.com/?user=KhalylDammas&&theme=tokyonight&&hide_border=true&card_width=495>
+    </a>
+</p>
 <!--
 **KhalylDammas/KhalylDammas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
